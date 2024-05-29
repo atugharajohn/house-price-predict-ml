@@ -14,10 +14,11 @@ The dataset used in this project contains various attributes of residential prop
 
 House Price Prediction typically involves the following steps:
 
-1. **Data Collection:** Gathering data from various sources including real estate listings, public databases, and property websites. 📝
+1. **Data Collection:** Gathering data from various sources including real estate listings, public databases, and property websites. 
 
-2. **Data Preprocessing:** Cleaning the data by handling missing values, encoding categorical variables, and scaling numerical features. 🧹
+2. **Data Preprocessing:** Cleaning the data by handling missing values, encoding categorical variables, and scaling numerical features. 
 
-3. **Feature Engineering:** Creating new features or transforming existing ones to improve the model's predictive performance. 🛠️
+3. **Feature Engineering:** Creating new features or transforming existing ones to improve the model's predictive performance. 
 
-4. **Model Selection:** Choosing a suitable machine learning algorithm and training it on the prepared data to predict house prices accurately. 🤖
+4. **Model Selection:** Choosing a suitable machine learning algorithm and training it on the prepared data to predict house prices accurately. 
+ 
